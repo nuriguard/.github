@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="nuriguard.png" width="120" alt="누리가드 아이콘">
+
 # 누리가드 · NuriGuard
 
 **공공 누리집에 몰래 심어진 불법광고를 찾아내는 점검 도구**
